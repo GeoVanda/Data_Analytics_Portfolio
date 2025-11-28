@@ -7,15 +7,14 @@ Each project is organized in its own folder, including data, scripts, images and
 
 # 📊 Projects
 
-- [Energy Transition](./energy_transition)  
-  Energy Transition – From Global to EU27 (2025)
-  Dashboard in Power BI analyzing status and trends of global, EU27, and Spain renewable electricity generation.
+- [Energy Transition](energy_transition/README.md)  
+  Analysis of global and EU27 energy transition with dashboards and visualizations.
 
-- [Banking Simulator](./banking_simulator)  
-  Proyecto de simulación bancaria con perfiles de clientes y segmentación.
+- [Banking Simulator](banking_simulator/README.md)  
+  Banking simulation project with customer profiling and segmentation.
 
-- [Water Anomalies](./water_anomalies)  
-  Detección de anomalías en consumo de agua con modelos ML.
+- [Water Anomalies](water_anomalies/README.md)  
+  Detection of anomalies in water consumption using ML models.
 
-- [Banco de España Survey](./banco_espana_survey)  
-  Análisis de la Encuesta de Competencias Financieras del Banco de España.
+- [Banco de España Survey](banco_espana_survey/README.md)  
+  Analysis of the Financial Competencies Survey from Banco de España (partial: Financial behaviour)
