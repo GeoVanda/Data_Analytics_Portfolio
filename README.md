@@ -18,3 +18,6 @@ Each project is organized in its own folder, including data, scripts, images and
 
 - [Banco de España Survey](banco_espana_survey/README.md)  
   Analysis of the Financial Competencies Survey from Banco de España (partial: Financial behaviour)
+
+## 🔗 Related
+- [Bootcamp Sprints](https://github.com/GeoVanda/IT_Academy_Data_Analytics_Bootcamp_Sprints_SQL_POWERBI_PYTHON) – complementary training exercises in Python, SQL, and Power BI.
